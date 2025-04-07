@@ -1,4 +1,4 @@
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>STACKS</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
@@ -14,7 +14,7 @@
   <br>
   <br>
 
-  <div align=center><h1>📚 Baekjoon Score</h1></div>
+  <div align=center><h1>Baekjoon Score</h1></div>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cleangun)](https://solved.ac/cleangun/)
   
