@@ -1,9 +1,4 @@
 ### **"Geon Ahn" Stats** 😎
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleangun&show_icons=true&theme=radical)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cleangun)](https://solved.ac/cleangun/)
-
-
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
@@ -49,4 +44,9 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
+  <br>
+  <br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleangun&show_icons=true&theme=radical)
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cleangun)](https://solved.ac/cleangun/)
 </div>
